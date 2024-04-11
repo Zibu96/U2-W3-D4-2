@@ -1,5 +1,5 @@
 const loadBtn = document.querySelector(".load");
-const loadBtnTwo = document.querySelector(".loadsecond");
+const loadBtnTwo = document.querySelector(".loadSecond");
 const row = document.getElementById("row");
 
 const funcForImage = (URL) => {
